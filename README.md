@@ -1,1 +1,2 @@
-# Kaisen-Xolo-Display
+7/9 Day 1: added the directory and created two hrefs to the background and backstory with image linking style. Skills used, Href, img, header, paragraph
+7/10 Day 2: added information to the background and backstory learning basicsof css and html and putting them to use with own project instead of directly copying videos for better information retaining. , Skills used: heading, button, button hover, button active, image border radius, opacity, transition,  line break, initial page href. 
