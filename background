@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Background</title>
+    <style>
+      img {
+        border-radius: 50px;
+      }
+      button {
+        background-color: pink;
+        color: black;
+        border:none;
+        border-radius: 10px;
+      }
+
+      button:hover{
+        transition: box-shadow 0.15s;
+        box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.15);
+      }
+      button:active{
+        opacity:0.5;
+      }
+   
+    </style>
+  </head>
+  <body>
+    <a href="/index.html">
+      <img src="Images/directory.png" alt="" />
+    </a>
+    <h1>Story</h1>
+    You are haunted by something so terrible that you dare not speak of it.
+    You’ve tried to bury it and run away from it, to no avail. Whatever this
+    thing is that haunts you can’t be slain with a sword or banished with a
+    spell. It might come to you as a shadow on the wall, a bloodcurdling
+    nightmare, a memory that refuses to die, or a demonic whisper in the dark.
+    The burden has taken its toll, isolating you from most people and making you
+    question your sanity. You must find a way to overcome it before it destroys
+    you. Kaisen faces whispers of voices of the Crossed he killed, betrayed to
+    be harvested by one of their own. He disrupted their processes. Also faces
+    dreams with messages of Brand.
+
+    <h1>What's Affected:</h1>
+    Skill Proficiencies: Choose two of the following: <button>Arcana</button>, <button>Investigation</button>, <button>Religion</button>, or
+    <button>Survival</button><br />
+    Languages: Undercommon, Abyssal <br />Equipment: A monster hunter’s pack,
+    and one trinket of special significance (choose one or roll on the Gothic
+    Trinkets table). Also gain a set of set of common clothes and 1sp. <br />
+    <h2>Heart of Darkness</h2>
+    Those who look into your eyes can see that you have faced unimaginable
+    horror and that you are no stranger to darkness. Though they might fear you,
+    commoners will extend you every courtesy and do their utmost to help you.
+    Unless you have shown yourself to be a danger to them, they will even take
+    up arms to fight alongside you, should you find yourself facing an enemy
+    alone.<br />
+    <a href="https://dnd5e.wikidot.com/background:haunted-one" 
+    target="_blank"> Wikidot Page</a>
+  </body>
+</html>
