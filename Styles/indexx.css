@@ -1,0 +1,19 @@
+ body{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;  
+        height: 100vh;
+        margin: 0;
+        text-align: center;
+      }
+      img {
+        border-radius: 50px;
+        margin:auto;
+      }
+      .titleText{
+        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+      }
+      p{
+        font-size: 14px;
+      }
