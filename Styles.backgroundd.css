@@ -1,0 +1,25 @@
+img {
+        border-radius: 50px;
+      }
+      button {
+        background-color: pink;
+        color: black;
+        padding: 10px;
+        border:none;
+        border-radius: 10px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      }
+
+      button:hover{
+        transition: box-shadow 0.15s;
+        box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.15);
+      }
+      button:active{
+        opacity:0.5;
+      }
+      .titleText{
+        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+      }
+     p{
+        font-size: 20px;
+      }
